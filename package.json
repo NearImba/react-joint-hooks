@@ -1,6 +1,6 @@
 {
   "name": "react-joint-hooks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simplest data sharing solution base on react hooks and subscribe/publish",
   "main": "dist/index.js",
   "module": "lib/index.js",

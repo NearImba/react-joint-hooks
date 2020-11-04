@@ -2,6 +2,8 @@
 
 The simplest data sharing base on react hooks and Subscribe/Publish
 
+please view [online demo](https://codesandbox.io/s/react-joint-hooks-hwu4q)
+
 ### api
 
 - **createJtStore**
